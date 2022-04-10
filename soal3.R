@@ -11,7 +11,7 @@ babies <- data.frame('data' = rpois(365, 4.5))
 babies %>% ggplot() +
   geom_histogram(aes(x = data,
                      y = stat(count / sum(count)),
-                     fill = data = 6),
+                     fill = data == 6),
                  binwidth = 1,
                  color = 'black',) +
   scale_x_continuous(breaks = 0:10) + 

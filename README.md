@@ -244,4 +244,4 @@ var(x)
 ## Referensi
 - https://rpubs.com/mpfoley73/458721
 - https://mse.redwoods.edu/darnold/math15/spring2013/R/Activities/MeanVarStd.html
-- https://mse.redwoods.edu/darnold/math15/spring2013/R/Activities/MeanVarStd.html
+- https://bookdown.org/gabriel_butler/ECON41Labs/tutorial-5-the-poisson-distribution.html

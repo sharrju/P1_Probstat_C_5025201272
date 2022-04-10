@@ -20,7 +20,7 @@ babies %>% ggplot() +
         y = 'Proportion') 
         
 #3c
-babies %>% dplyr::summarize(6_Bayi = sum(babies$data == 6) / n())
+babies %>% dplyr::summarize(Enam_Bayi = sum(babies$data == 6) / n())
  
 #3d
 lambda = 4.5

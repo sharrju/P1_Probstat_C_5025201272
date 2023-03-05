@@ -1,7 +1,7 @@
-# P1_Probstat_C_5025201272
+I am editing the README file. Adding some more details about the project description.# P1_Probstat_C_5025201272
 
 Praktikum PROBSTAT 2022 Modul 1
-
+I am editing the README file. Adding some more details about the project description.
 ## Sarah Alissa Putri - 5025201272
 
 ### Soal 1
